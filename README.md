@@ -1,4 +1,4 @@
-#IPFS Ethereum Project
+# IPFS Ethereum Project
 
 This project was undertaken as a final year honors project for a dissertation concerning Ethereum blockchain technologies and their use as an immutable record store for student certificates and achievements. The goal of the project was to use Ethereum and IPFS to demonstrate how this technologies can be used in order to store and retieve certificates, as well as an exploration into how viable a solution they present to current storage methods of student certificates at universities or other insitutions.
 
